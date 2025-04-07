@@ -6,7 +6,7 @@
 
 # 1. Built-in Functions – Predefined in Python (e.g., print(), len(), sum(), etc.)
 # Example:
-print(len("Hello"))  # Output: 5
+print(len("Hello"))  
 
 # 2. User-defined Functions – Functions created by the programmer.
 # Example:'
